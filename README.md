@@ -1,2 +1,2 @@
 # TFU_DSA
-I am solving dsa problem from tfu selected sheet.
+I am solving selected dsa problem from tfu sheet.
