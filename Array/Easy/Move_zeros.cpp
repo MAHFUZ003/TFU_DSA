@@ -4,7 +4,7 @@ public:
         int j=0,n = nums.size();
         for(int i =0;i<n;i++)
         {
-            //j is where last first 0 us placed
+            //j is where  first 0 is placed
             if(nums[i]!=0)
             {
                 swap(nums[j],nums[i]);
